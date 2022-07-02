@@ -5,7 +5,7 @@ This is protobuf code generation for micro. We use protoc-gen-micro to reduce bo
 ## Install
 
 ```
-go install gitlab.cardpay-test.com/gatefi/protoc-gen-micro@latest
+go install github.com/paysuper/protoc-gen-micro@latest
 ```
 
 Also required: 
